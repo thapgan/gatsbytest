@@ -35,6 +35,6 @@
 <url> <loc>https://thapgan.github.io/gatsbytest/category/Angular</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thapgan.github.io/gatsbytest/category/React</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thapgan.github.io/gatsbytest/category/Machine Learning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://thapgan.github.io/gatsbytest/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://thapgan.github.io/gatsbytest/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://thapgan.github.io/gatsbytest/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
